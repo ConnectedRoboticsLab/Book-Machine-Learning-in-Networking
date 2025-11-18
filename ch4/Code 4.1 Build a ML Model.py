@@ -1,4 +1,4 @@
-
+#Copyright@Zhenhui Yuan, 2025
 # This is a "Hello World" version of your first machine learning
 # Implement the four components of building a ML: data, model, cost function, and optimization.
 import numpy as np
